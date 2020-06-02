@@ -72,7 +72,7 @@ module cy10_top
    output         c10sk_hdmi_hpd_a,
    output         c10sk_hdmi_cec_a,
    output   [2:0] c10sk_hdmi_tmds,
-   output         c10sk_hdmi_tmds_clk     // 
+   output         c10sk_hdmi_tmds_clk     //
 );
 
 //______________________________________________________________________________

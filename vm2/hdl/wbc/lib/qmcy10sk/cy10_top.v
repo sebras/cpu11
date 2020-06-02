@@ -116,7 +116,7 @@ wire        vm_evnt;                   //
 wire        tx_irq, tx_ack;            //
 wire        rx_irq, rx_ack;            //
 wire [31:0] baud;                      //
-wire			uart_rxd, uart_txd;			//
+wire        uart_rxd, uart_txd;        //
 //______________________________________________________________________________
 //
 assign      sys_init = vm_init_out;
